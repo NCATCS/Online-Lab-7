@@ -41,7 +41,7 @@ public static void readCourseData( ArrayList<Course> courses, String filename )
 parameters. Write a loop under the call to readCourseData to output all the course data to the
 console by calling toString() for each Course object in the ArrayList.
   
-**Hint:** In order to split a line delimited by an asterisk, you must use the escape character `\`. Ex. `.split("\*")`
+**Hint:** In order to split a line delimited by an asterisk, you must use the escape character `\\`. Ex. `.split("\\*")`
 
 ## Input File Format
 
