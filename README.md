@@ -1,20 +1,11 @@
-# Lab Quiz 1
+# Online Lab 7
 
-Read all instructions before you begin. As always, you are expected to commit and push at LEAST after completing each Problem.
+Read all instructions before you begin. As always, you are expected to commit and push at after completing each problem.
 
-## Resources Allowed
-
-There are a limited number of resources allowed on this exam:
-- Official Java Documentation (any page at docs.oracle.com).
-  - You may use google to search for the official Java documentation, but may not click on any link that isn't to docs.oracle.com
-- Your GitHub repositories from previous labs.
-- Your online textbook.
-
-Using any other resource to complete this quiz will be considered an academic integrity violation.
 
 ## Grading
 
-You should show a TA your work after completing each problem in order to get full credit. You must complete this lab within your lab period.
+You are supposed to have your assigned reviewer as stated in MP1 to grade this lab. Make sure to put them as a reviewer to get your grade. If it is not on GitHub you will not get credit.
 
 ## Problem 1 (5 points)
 
